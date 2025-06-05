@@ -3,9 +3,8 @@
 <h3>UI : QML <br>
 BackEnd : C++ <br></h3>
 
-<h3>
-  Supported Platforms: Android, Window, Web
-</h3>
+<h3> Supported Platforms: Android, Window, Web </h3>
+<b>반응형을 제대로 구현하지 않아 이쁘게 나오지는 않음
 
 <br>
 <img src = "https://github.com/user-attachments/assets/36d513ff-62c2-4b11-b965-ea22b6f0cc4c" width=450>
